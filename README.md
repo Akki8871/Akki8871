@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akki8871&show_icons=true&locale=en" alt="Akki8871" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akki8871&" alt="Akki8871" /></p>
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
